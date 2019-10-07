@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="fIA2IWc9CGwDdkQzkj1FvR3lChLd17r6f5T9NYen">
+    <meta name="theme-color" content="#F0DF8C">
+    <meta name = "format-detection" content = "telephone=no" >
+    <link REL="SHORTCUT ICON" HREF="/images/favicon.png">
+
+            <title>Новости - Rozetked.me</title>
+            <meta name="KeyWords" content="">
+        <meta name="Description" content="Rozetked — это качественные обзоры гаджетов и приложений, а теперь и сайт с новостями о технологиях, видеоиграх и кино. ">
+    
+        
+
+    <!-- Styles -->
+    <link href="/css/app.65def5678e0db56d15d1e61e14f37f33.css" rel="stylesheet">
+    <link rel="stylesheet" rel="nofollow" href="/css/appsmall.css?v2"  type="text/css" media="all and (min-width: 0px) and (max-width: 1024px)" >
+	<link rel="stylesheet" rel="nofollow" href="/css/appmed.css"  type="text/css" media="all and (min-width: 400px) and (max-width: 1024px)" >
+	<link rel="stylesheet" rel="nofollow" href="/css/apppad.css"  type="text/css" media="all and (min-width: 700px) and (max-width: 1024px)" >
+
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="https://rozetked.me/turbo" />
+
+    <!-- Scripts -->
+    <script>
+        window.Laravel = {"csrfToken":"fIA2IWc9CGwDdkQzkj1FvR3lChLd17r6f5T9NYen"};
+    </script>
+
+    
+    <!-- Yandex.Market Widget -->
+    <script async src="https://aflt.market.yandex.ru/widget/script/api" type="text/javascript"></script>
+    <script type="text/javascript">
+		(function (w) {
+			function start() {
+				w.removeEventListener("YaMarketAffiliateLoad", start);
+				w.YaMarketAffiliate.createWidget({
+                    containerId:"marketWidget",
+					type:"reviews",
+					params:{clid:2342243, searchCount:3,
+						searchSelector:"h1",
+						sovetnikPromo:false,reviewsCount:1,
+						themeId:1 } });
+			}
+			w.YaMarketAffiliate
+				? start()
+				: w.addEventListener("YaMarketAffiliateLoad", start);
+		})(window);
+    </script>
+    <!-- End Yandex.Market Widget -->
+    
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45364773 = new Ya.Metrika2({
+                    id:45364773,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45364773" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-102908502-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4287233840958582",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body class = 'site'
+>
+
+    
+<!— Rating@Mail.ru counter —>
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2938829", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2938829;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!— //Rating@Mail.ru counter —>
+
+    <div id="app">
+        
+    <script src="/js/advert.js"></script>
+    
+    <a id='top'></a>
+<div id='sticky-anchor'></div>
+<div id='sticky'>
+<div class='rlogo'>
+<a href="/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="347px" height="300px" viewBox="0 0 347 300" version="1.1" class="ricon">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LOGO_1" transform="translate(-4101.000000, -6104.000000)">
+            <g id="&#1057;&#1083;&#1086;&#1081;_x0020_1">
+                <g id="_629199664" transform="translate(4101.000000, 6104.000000)">
+                    <polygon id="Shape" fill="#F4D44D" points="259.806118 0 303.116793 75 346.415881 150 303.116793 225 259.806118 300 173.207941 300 86.6097636 300 43.2990885 225 0 150 43.2990885 75 86.6097636 0 173.207941 0"></polygon>
+                    <polygon id="Shape" fill="#DCB822" points="86.6097636 0 173.207941 150 86.6097636 300 0 150"></polygon>
+                    <polygon id="Shape" fill="#E5C51C" points="86.6097636 300 259.806118 300 346.415881 150 173.207941 150"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+</a>
+</div>
+
+<div class='razer'>
+<a class='cd-cart-trigger' href='#' id='hamburger-icon' title='Меню'>
+<span class='line line-1'></span>
+<span class='line line-3'></span>
+</a>
+</div>
+</div>
+<div class='line-left'>
+<div class='up'>
+    <a href="#top" rel="relativeanchor" ><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278px" height="300px" viewBox="0 0 278 300" version="1.1" id="scrollUp" class="up-icon">
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="rozetked-text_1" transform="translate(-1976.000000, 0.000000)">
+                <g id="&#1057;&#1083;&#1086;&#1081;_x0020_1">
+                    <path d="M2114.67976,0 L2114.67976,0 C2122.69184,0 2129.86103,3.75226586 2134.5287,9.58912387 L2134.47432,8.82779456 L2245.75529,120.108761 C2255.6435,129.996979 2255.6435,146.18429 2245.75529,156.072508 L2245.75529,156.072508 C2235.86707,165.960725 2219.67976,165.960725 2209.79154,156.072508 L2156.38973,102.670695 C2150.65257,97.3413897 2140.59215,100.885196 2140.2568,109.069486 L2140.53776,274.567976 C2140.56495,288.55287 2129.09063,300 2115.10574,300 L2115.10574,300 C2101.12085,300 2089.70091,288.55287 2089.67372,274.567976 L2089.39275,107.148036 C2087.69789,100.36858 2078.79758,97.7854985 2073.53172,102.670695 L2020.12991,156.072508 C2010.24169,165.960725 1994.05438,165.960725 1984.16616,156.072508 L1984.16616,156.072508 C1974.27795,146.18429 1974.27795,129.996979 1984.16616,120.108761 L2095.44713,8.82779456 L2095.44713,8.82779456 C2100.12387,3.42598187 2107.02115,0 2114.67976,0 L2114.67976,0 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </svg>
+    </a>
+</div>
+<div id='cd-shadow-layer'></div>
+<div id='cd-cart' class="r_content">
+    <div class="top-block" style="display: none"></div>
+    <div id="menu-links"  style="display: none">
+
+        
+    </div>
+
+    <div id="events_left_ph"></div>
+
+        <div class='razer-menu-list'>
+                                        <a href='https://rozetked.me/tag/apple' >apple</a>
+                                            <a href='https://rozetked.me/tag/google' >google</a>
+                                            <a href='https://rozetked.me/tag/samsung' >samsung</a>
+                                            <a href='https://rozetked.me/tag/xiaomi' >xiaomi</a>
+                                            <a href='https://rozetked.me/tag/tehnologii' >технологии</a>
+                                            <a href='https://rozetked.me/tag/ru' >ru</a>
+                                            <a href='https://rozetked.me/tag/igry' >игры</a>
+                                            <a href='https://rozetked.me/tag/prilozheniya' >приложения</a>
+                                            <a href='https://rozetked.me/tag/huawei' >huawei</a>
+                                            <a href='https://rozetked.me/tag/kino' >кино</a>
+                                            <a href='https://rozetked.me/tag/android' >android</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+ 
+</div>
+</div>
+    
+
+    <div class='container r'>
+        
+        <div class='r_header'>
+     
+<div class='r_header__h'>
+<div class='r_header__h_socials  only-with-menu'>
+<div class='r_header__h_socials-icons'>
+мы:
+<a target="_blank" class='vk' href="https://vk.com/rozetked">вконтакте</a>
+<a target="_blank" class='fb' href="https://www.facebook.com/rozetked/?fref=ts">facebook</a>
+<a target="_blank" class='tw' href="https://twitter.com/rozetked">twitter</a>
+<a target="_blank" class='tg' href="https://teleg.run/rozetked">telegram</a>
+<a target="_blank" class='is' href="https://www.instagram.com/rozetked/">instagram</a>
+<a target="_blank" class='yu' href="https://www.youtube.com/user/rozetked">youtube</a>
+<a target="_blank" class='ya' href="https://zen.yandex.ru/rozetked">дзен</a>
+</div>
+</div>
+<div class='r_header__h_logo'>
+<a href="/"><img src="/images/logo.png" alt=""></a>
+    <div class="only_mobile only-with-menu profile_icon">
+	  
+			<div class="av" style="background-image: url('/images/iconm-user.png');"></div>
+		</div>
+    <div class="only_mobile only-without-menu profile_icon search_icon"><div class="av" style="background-image: url(/images/iconm-search.png);"></div></div>
+</div>
+	<div class='r_header__h_login'>
+        <div><a href="https://rozetked.me/register">регистрация</a></div>
+        <span class="delimiter only_mobile only_mobile_inln">&nbsp;/&nbsp;</span>
+		<div><a href="https://rozetked.me/login" class="login">авторизация</a></div>
+</div>
+
+</div>
+</div>        
+        <div class='r_navigation_t'>
+	<div class='r_navigation_t__left'>
+
+<a  class="active"  href="https://rozetked.me/news">новости</a><span>/</span><a  href="https://rozetked.me/articles">cтатьи</a><span>/</span><a  href="https://rozetked.me/reviews">обзоры</a><span>/</span><a  href="https://rozetked.me/interview">интервью</a>
+	</div>
+	<div class='r_navigation_t__right'>
+		<div class='search'>
+			<form action=https://rozetked.me/search>
+				<input placeholder='Поиск' type='search' name='q'>
+				<button type='submit'>
+				<i class="fa fa-search"></i>
+				</button>
+			</form>
+		    <div class="only_mobile profile_icon close_icon"><div class="av" style="background-image: url(/images/iconm-close.png);">&nbsp;</div></div>
+
+        </div>
+	</div>
+</div>        
+        
+                        <div class='r_navigation_w'>
+                <div class='r_navigation_w__left'>
+                    <a href="https://rozetked.me/news"   class="active"  >редакционное и популярное</a>
+                    <span>/</span>
+                    <a href="https://rozetked.me/news?readers=1" >читательское</a>
+              
+                </div>
+                <div class='r_navigation_w__right'>
+                    <a href="https://rozetked.me/post/add" class="send_news">прислать новость
+                        <i class="fa fa-envelope r_navigation_w__right-icon"></i>
+                    </a></div>
+        </div>
+                         
+
+       
+
+        <div class='r_content'>
+                        
+                        <h1>Новости</h1>
+                                                
+            <div class='home'>
+                <div class='home_left'>
+
+                                         <div class='home_left__n'>
+		    <a  class="active" href="https://rozetked.me/news">последние</a>
+    <span>/</span>    	    <a  href="https://rozetked.me/news?sort=best">лучшие</a>
+    <span>/</span>    	    <a  href="https://rozetked.me/news?sort=comment">обсуждаемые</a>
+        </div>
+                                        <div class='home_left__posts'>
+                        
+                                                                                           <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8072-pervyy-treyler-chetvertogo-sezona-rika-i-morti-v-ozvuchke-syenduk">Первый трейлер четвёртого сезона «Рика и Морти» в озвучке Сыендука</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>1 час назад
+	</span><span><a href="https://rozetked.me/user/7">Данила Гаращенко</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;778                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8072-pervyy-treyler-chetvertogo-sezona-rika-i-morti-v-ozvuchke-syenduk#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                Утром 7 октября канал Cartoon Network опубликовал первый трейлер продолжения.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8072-pervyy-treyler-chetvertogo-sezona-rika-i-morti-v-ozvuchke-syenduk"><img src="/images/uploads/thumb/bfzjdfh224ja.jpg" alt="Первый трейлер четвёртого сезона «Рика и Морти» в озвучке Сыендука" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8072-dislike"  data-item-id="post_8072" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8072-votes" >0</span>
+	<a rel="nofollow" id="post_8072-like"  data-item-id="post_8072" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/serialy'>сериалы</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8071-ifixit-opublikovali-podrobnosti-tehnicheskih-izmeneniy-v-novoy-versii-galaxy-fold">iFixit опубликовали подробности технических изменений в новой версии Galaxy Fold</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>2 часа назад
+	</span><span><a href="https://rozetked.me/user/7">Данила Гаращенко</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;1 931                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8071-ifixit-opublikovali-podrobnosti-tehnicheskih-izmeneniy-v-novoy-versii-galaxy-fold#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                По десятибалльной шкале ремонтопригодности устройству поставили всего два балла.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8071-ifixit-opublikovali-podrobnosti-tehnicheskih-izmeneniy-v-novoy-versii-galaxy-fold"><img src="/images/uploads/thumb/v28AQJCtKhUm.jpg" alt="iFixit опубликовали подробности технических изменений в новой версии Galaxy Fold" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8071-dislike"  data-item-id="post_8071" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8071-votes" >0</span>
+	<a rel="nofollow" id="post_8071-like"  data-item-id="post_8071" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/samsung'>samsung</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8070-samsung-predstavila-ul-trabyudzhetnye-chromebook-4-i-4">Samsung представила ультрабюджетные Chromebook 4 и 4+</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>2 часа назад
+	</span><span><a href="https://rozetked.me/user/1224">Антон Курилов</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;677                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8070-samsung-predstavila-ul-trabyudzhetnye-chromebook-4-i-4#comments"><i class="fa fa-comments"></i>
+                        обсудить (1) </a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                На базе процессоров Intel Celeron и всего с 4 ГБ оперативной памяти.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8070-samsung-predstavila-ul-trabyudzhetnye-chromebook-4-i-4"><img src="/images/uploads/thumb/ddb713zX7oob.jpg" alt="Samsung представила ультрабюджетные Chromebook 4 и 4+" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8070-dislike"  data-item-id="post_8070" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8070-votes" >0</span>
+	<a rel="nofollow" id="post_8070-like"  data-item-id="post_8070" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/samsung'>samsung</a><a href='https://rozetked.me/tag/chromebook'>chromebook</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                            <div class="banner_into_pblc">
+                                    <a href="https://rozetked.me/a/20" target="_blank">
+    <img src="/images/a/1538992737_1SU5MEod.png" alt="Биг гик мобильная">
+</a>
+
+
+                                </div>
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8069-polnye-specifikacii-novogo-motorola-one-s-vydvizhnoy-kameroy">Полные спецификации нового Motorola One с выдвижной камерой</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>3 часа назад
+	</span><span><a href="https://rozetked.me/user/1224">Антон Курилов</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;725                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8069-polnye-specifikacii-novogo-motorola-one-s-vydvizhnoy-kameroy#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                По-прежнему неизвестно название смартфона, зато всё остальное утекло.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8069-polnye-specifikacii-novogo-motorola-one-s-vydvizhnoy-kameroy"><img src="/images/uploads/thumb/rRKuVe8IJg9T.jpg" alt="Полные спецификации нового Motorola One с выдвижной камерой" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8069-dislike"  data-item-id="post_8069" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8069-votes" >0</span>
+	<a rel="nofollow" id="post_8069-like"  data-item-id="post_8069" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/motorola'>motorola</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8068-v-rossii-startovali-prodazhi-samsung-galaxy-a20s">В России стартовали продажи Samsung Galaxy A20s</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>4 часа назад
+	</span><span><a href="https://rozetked.me/user/7">Данила Гаращенко</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;909                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8068-v-rossii-startovali-prodazhi-samsung-galaxy-a20s#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                Среднебюджетный смартфон с тройной камерой.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8068-v-rossii-startovali-prodazhi-samsung-galaxy-a20s"><img src="/images/uploads/thumb/d9tchf7QBIC0.jpg" alt="В России стартовали продажи Samsung Galaxy A20s" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8068-dislike"  data-item-id="post_8068" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8068-votes" >0</span>
+	<a rel="nofollow" id="post_8068-like"  data-item-id="post_8068" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/samsung'>samsung</a><a href='https://rozetked.me/tag/ru'>ru</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8067-zaschitnyy-keys-dlya-airpods-3-poyavilsya-na-amazon">Защитный кейс для AirPods 3 появился на Amazon</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>5 часов назад
+	</span><span><a href="https://rozetked.me/user/1224">Антон Курилов</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;2 252                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8067-zaschitnyy-keys-dlya-airpods-3-poyavilsya-na-amazon#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                Форма кейса согласуется с предыдущими утечками.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8067-zaschitnyy-keys-dlya-airpods-3-poyavilsya-na-amazon"><img src="/images/uploads/thumb/S7UsPITs5HRK.jpg" alt="Защитный кейс для AirPods 3 появился на Amazon" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8067-dislike"  data-item-id="post_8067" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8067-votes" >0</span>
+	<a rel="nofollow" id="post_8067-like"  data-item-id="post_8067" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/apple'>apple</a><a href='https://rozetked.me/tag/airpods'>airpods</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                        <div class="banner_into_pblc">
+                                    <a href="https://rozetked.me/a/21" target="_blank">
+    <img src="/images/a/1538992887_wFGT0i6t.png" alt="Биг гик мобильная 2">
+</a>
+
+
+                                </div>
+                                                                                                                       <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8066-garmin-vypustila-umnye-chasy-s-dizaynom-zvedznyh-voyn">Garmin выпустила умные часы с дизайном «Звёздных войн»</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>6 часов назад
+	</span><span><a href="https://rozetked.me/user/1809">Герман Лебедев</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;2 222                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8066-garmin-vypustila-umnye-chasy-s-dizaynom-zvedznyh-voyn#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                Умные часы с NFC и офлайн-плеером уже вышли в продажу.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8066-garmin-vypustila-umnye-chasy-s-dizaynom-zvedznyh-voyn"><img src="/images/uploads/thumb/tWrVBsfeXhpT.jpg" alt="Garmin выпустила умные часы с дизайном «Звёздных войн»" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8066-dislike"  data-item-id="post_8066" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8066-votes" >0</span>
+	<a rel="nofollow" id="post_8066-like"  data-item-id="post_8066" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/garmin'>garmin</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8065-novyy-glava-htc-rasskazal-o-buduschem-kompanii">Новый глава HTC рассказал о будущем компании</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>7 часов назад
+	</span><span><a href="https://rozetked.me/user/1224">Антон Курилов</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;837                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8065-novyy-glava-htc-rasskazal-o-buduschem-kompanii#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                Производитель продолжит выпускать смартфоны, в основном в премиальном сегменте и с поддержкой 5G.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8065-novyy-glava-htc-rasskazal-o-buduschem-kompanii"><img src="/images/uploads/thumb/z8rUrHO12MuA.jpg" alt="Новый глава HTC рассказал о будущем компании" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8065-dislike"  data-item-id="post_8065" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8065-votes" >1</span>
+	<a rel="nofollow" id="post_8065-like"  data-item-id="post_8065" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/htc'>htc</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                                   <div class='post_new'>
+    <div class='post_new-title'>
+        <a href="https://rozetked.me/news/8063-predstavlen-sony-xperia-8-dvoynaya-kamera-displey-21-9-i-snapdragon-630">Представлен Sony Xperia 8: двойная камера, дисплей 21:9 и Snapdragon 630</a>
+    </div>
+    <div class='post_new-meta'>
+        <div class="post_new-meta-author">
+           <span>9 часов назад
+	</span><span><a href="https://rozetked.me/user/7">Данила Гаращенко</a></span>
+        </div>
+        <div class="post_new-meta-views">
+                    <span>          
+                        <i class="fa fa-eye"></i>&nbsp;3 826                        
+                    </span><span>
+                        <a href="https://rozetked.me/news/8063-predstavlen-sony-xperia-8-dvoynaya-kamera-displey-21-9-i-snapdragon-630#comments"><i class="fa fa-comments"></i>
+                        обсудить</a>
+                    </span>            
+        </div>        
+    </div>
+    <div class='post_new__main'>
+        <div class='post_new__main_box'>
+            <div class='post_new__main_box_text'>
+                Устройство анонсировано пока только для рынка Японии.
+            </div>
+                    <div class='post_new__main_box_image'>
+                <a href="https://rozetked.me/news/8063-predstavlen-sony-xperia-8-dvoynaya-kamera-displey-21-9-i-snapdragon-630"><img src="/images/uploads/thumb/TwMnNsES6w8i.jpg" alt="Представлен Sony Xperia 8: двойная камера, дисплей 21:9 и Snapdragon 630" /></a>
+            </div>
+                    <div class='post_new__main_box_bottom'>
+                <div class="post_new__main_box_bottom-actions">
+                                    </div>
+                <div class="post_new__main_box_bottom-rating"><a rel="nofollow" id="post_8063-dislike"  data-item-id="post_8063" data-vote="-1" class='laravelLike-icon disabled outline'>-</a>	
+	<span id ="post_8063-votes" >1</span>
+	<a rel="nofollow" id="post_8063-like"  data-item-id="post_8063" data-vote="1" class='laravelLike-icon disabled outline'>+</a>
+		
+</div>
+                <div class="post_new__main_box_bottom-tags">
+                    <a href='https://rozetked.me/tag/sony'>sony</a>                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>                                                        
+
+                                                                                                                                            <div class='home_left__pagination'>
+                                <ul class="pagination">
+        
+                    <li class="disabled previous_page"><span>Назад</span></li>
+        
+        
+                    
+            
+            
+                                                                        <li class="current"><span>1</span></li>
+                                                                                <li><a href="https://rozetked.me/news?page=2">2</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=3">3</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=4">4</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=5">5</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=6">6</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=7">7</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=8">8</a></li>
+                                                                    
+                            <li class="disabled"><span>...</span></li>
+            
+            
+                                
+            
+            
+                                                                        <li><a href="https://rozetked.me/news?page=784">784</a></li>
+                                                                                <li><a href="https://rozetked.me/news?page=785">785</a></li>
+                                                        
+        
+                    <li class="next_page"><a href="https://rozetked.me/news?page=2" rel="next">Вперед</a></li>
+            </ul>
+
+                            </div>
+                                                                            
+                    </div>
+                </div> 
+
+                 <div class='home_right'>
+                  <div id='events' class="events_ph">
+    <div class='home_right__n'>
+       
+        
+        <div class='home_right__n_i active'>
+            <a href="#tabs-5">ближайшие события</a>
+        </div>
+        /
+        <div class='home_right__n_i'>
+            <a href="#tabs-7">в мире игр</a>
+        </div>
+        /
+         <div class='home_right__n_i '>
+            <a href="#tabs-3"> в кино</a>
+        </div>
+    </div>
+        
+    <div class='home_right__events'>
+
+                    <div class='home_right__events_list' id='tabs-5'  style='display: block;'  >
+                                                                        <div class='home_right__events_list_item'>
+                    10.10.2019<br>
+                                            <a href='https://rozetked.me/news/7802-oficial-no-oneplus-prezentuet-novye-smartfony-serii-7t-26-sentyabrya' target="_blank">Презентация OnePlus 7T (Европа)</a>
+                    
+                </div>
+                                                                            <div class='home_right__events_list_item'>
+                    15.10.2019<br>
+                                            <a href='https://rozetked.me/news/7808-google-naznachila-prezentaciyu-pixel-4-i-drugih-gadzhetov' target="_blank">Made by Google 2019</a>
+                    
+                </div>
+                                                                            <div class='home_right__events_list_item'>
+                    29.10.2019<br>
+                                            Samsung Developer Conference 2019
+                    
+                </div>
+                                                                                                        <div class='home_right__events_list_item'>
+                    07.01.2020<br>
+                                            CES 2020
+                    
+                </div>
+                                                                            <div class='home_right__events_list_item'>
+                    24.02.2020<br>
+                                            MWC 2020
+                    
+                </div>
+                                                                                </div>
+            
+                    <div class='home_right__events_list' id='tabs-7'  >
+                                                                                                                                                                                                                                                         <div class='home_right__events_list_item'>
+                    Нет событий
+                </div>
+                        </div>
+            
+                    <div class='home_right__events_list' id='tabs-3'  >
+                                                                                                                                                            <div class='home_right__events_list_item'>
+                    19.12.2019<br>
+                                            Премьера «Звездные войны: Эпизод 9»
+                    
+                </div>
+                                                                                                                                    <div class='home_right__events_list_item'>
+                    17.12.2020<br>
+                                            Премьера «Аватар 2»
+                    
+                </div>
+                                                    </div>
+            
+        
+    </div>
+    <center>
+        <a href='https://rozetked.me/events' class='all_events'>Все события</a>
+    </center>
+</div>
+<div class='right__images'>
+	
+	<a href='/ad' class='link'>Реклама на сайте</a>
+	
+
+
+</div>
+<!-- Yandex.RTB R-A-277436-1 -->
+<div class='yandex-ad-block'  id="yandex_rtb_R-A-277436-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-277436-1",
+                renderTo: "yandex_rtb_R-A-277436-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br><br>
+
+
+
+
+   <!-- Yandex.RTB R-A-277436-8 -->
+
+   <!--div id="yandex_rtb_R-A-277436-8"></div>
+
+   <script type="text/javascript">
+
+      (function(w, d, n, s, t) {
+
+         w[n] = w[n] || [];
+
+         w[n].push(function() {
+
+            Ya.Context.AdvManager.render({
+
+               blockId: "R-A-277436-8",
+
+               renderTo: "yandex_rtb_R-A-277436-8",
+
+               async: true
+
+            });
+
+         });
+
+         t = d.getElementsByTagName("script")[0];
+
+         s = d.createElement("script");
+
+         s.type = "text/javascript";
+
+         s.src = "//an.yandex.ru/system/context.js";
+
+         s.async = true;
+
+         t.parentNode.insertBefore(s, t);
+
+      })(this, this.document, "yandexContextAsyncCallbacks");
+
+   </script-->
+                 </div>
+
+
+            </div>
+        </div>
+  
+        
+        <span style='display:none'> 
+        
+        <div class='home_right'>
+                  <div id='events' class="events_ph">
+    <div class='home_right__n'>
+       
+        
+        <div class='home_right__n_i active'>
+            <a href="#tabs-5">ближайшие события</a>
+        </div>
+        /
+        <div class='home_right__n_i'>
+            <a href="#tabs-7">в мире игр</a>
+        </div>
+        /
+         <div class='home_right__n_i '>
+            <a href="#tabs-3"> в кино</a>
+        </div>
+    </div>
+        
+    <div class='home_right__events'>
+
+                    <div class='home_right__events_list' id='tabs-5'  style='display: block;'  >
+                                                                        <div class='home_right__events_list_item'>
+                    10.10.2019<br>
+                                            <a href='https://rozetked.me/news/7802-oficial-no-oneplus-prezentuet-novye-smartfony-serii-7t-26-sentyabrya' target="_blank">Презентация OnePlus 7T (Европа)</a>
+                    
+                </div>
+                                                                            <div class='home_right__events_list_item'>
+                    15.10.2019<br>
+                                            <a href='https://rozetked.me/news/7808-google-naznachila-prezentaciyu-pixel-4-i-drugih-gadzhetov' target="_blank">Made by Google 2019</a>
+                    
+                </div>
+                                                                            <div class='home_right__events_list_item'>
+                    29.10.2019<br>
+                                            Samsung Developer Conference 2019
+                    
+                </div>
+                                                                                                        <div class='home_right__events_list_item'>
+                    07.01.2020<br>
+                                            CES 2020
+                    
+                </div>
+                                                                            <div class='home_right__events_list_item'>
+                    24.02.2020<br>
+                                            MWC 2020
+                    
+                </div>
+                                                                                </div>
+            
+                    <div class='home_right__events_list' id='tabs-7'  >
+                                                                                                                                                                                                                                                         <div class='home_right__events_list_item'>
+                    Нет событий
+                </div>
+                        </div>
+            
+                    <div class='home_right__events_list' id='tabs-3'  >
+                                                                                                                                                            <div class='home_right__events_list_item'>
+                    19.12.2019<br>
+                                            Премьера «Звездные войны: Эпизод 9»
+                    
+                </div>
+                                                                                                                                    <div class='home_right__events_list_item'>
+                    17.12.2020<br>
+                                            Премьера «Аватар 2»
+                    
+                </div>
+                                                    </div>
+            
+        
+    </div>
+    <center>
+        <a href='https://rozetked.me/events' class='all_events'>Все события</a>
+    </center>
+</div>
+<div class='right__images'>
+	
+	<a href='/ad' class='link'>Реклама на сайте</a>
+	
+
+
+</div>
+<!-- Yandex.RTB R-A-277436-1 -->
+<div class='yandex-ad-block'  id="yandex_rtb_R-A-277436-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-277436-1",
+                renderTo: "yandex_rtb_R-A-277436-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<br><br>
+
+
+
+
+   <!-- Yandex.RTB R-A-277436-8 -->
+
+   <!--div id="yandex_rtb_R-A-277436-8"></div>
+
+   <script type="text/javascript">
+
+      (function(w, d, n, s, t) {
+
+         w[n] = w[n] || [];
+
+         w[n].push(function() {
+
+            Ya.Context.AdvManager.render({
+
+               blockId: "R-A-277436-8",
+
+               renderTo: "yandex_rtb_R-A-277436-8",
+
+               async: true
+
+            });
+
+         });
+
+         t = d.getElementsByTagName("script")[0];
+
+         s = d.createElement("script");
+
+         s.type = "text/javascript";
+
+         s.src = "//an.yandex.ru/system/context.js";
+
+         s.async = true;
+
+         t.parentNode.insertBefore(s, t);
+
+      })(this, this.document, "yandexContextAsyncCallbacks");
+
+   </script-->
+                 </div>
+                 
+                 </span>     
+    
+    <div class='r r_footer'>
+        <div class='r_footer__logo'>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="347px" height="300px" viewBox="0 0 347 300" version="1.1" class="r_footer__logo-icon">
+                <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+                <title>_629199664</title>
+                <desc>Created with Sketch.</desc>
+                <defs></defs>
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="LOGO_1" transform="translate(-4101.000000, -6104.000000)">
+                        <g id="&#1057;&#1083;&#1086;&#1081;_x0020_1">
+                            <g id="_629199664" transform="translate(4101.000000, 6104.000000)">
+                            <polygon id="Shape" fill="#F4D44D" points="259.806118 0 303.116793 75 346.415881 150 303.116793 225 259.806118 300 173.207941 300 86.6097636 300 43.2990885 225 0 150 43.2990885 75 86.6097636 0 173.207941 0"></polygon>
+                        <polygon id="Shape" fill="#DCB822" points="86.6097636 0 173.207941 150 86.6097636 300 0 150"></polygon>
+                    <polygon id="Shape" fill="#E5C51C" points="86.6097636 300 259.806118 300 346.415881 150 173.207941 150"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+    </svg>
+    </div>
+    <div class='copyright'>
+    <a href="//www.rozetked.me">rozetked.me</a>
+    </div>
+    <div class='pages'>
+    <a href="https://rozetked.me/contacts">контакты</a>
+    <a href="https://rozetked.me/ad">реклама</a>
+    <a href="https://rozetked.me/project">о проекте</a>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/js/vendor.26690f3532dca9a8017c747ab021db5e.js"></script>
+    <script src="/js/fotorama/fotorama.js"></script>
+    <script src="/js/app.55b6ea9b0b2881df7a1cb0ef411e59bc.js"></script>
+    <script src="/js/main.js"></script>
+
+
+</body>
+</html>
