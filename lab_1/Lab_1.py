@@ -68,6 +68,8 @@ def struc_articles(url):
     rozetked_html = get_html_page(url)
     rozetked_parsed = BeautifulSoup(rozetked_html, 'html.parser')
     rozedked_article = rozetked_parsed.find_all(class_='post_new-title')
+    with open("type_page", "w",encoding="utf-8") as write_file:
+        write_file.write(rozetked_html)
     if rozedked_article == rozetked_parsed.find_all(class_='post_new-title'):
         flag= True
     return (flag)
