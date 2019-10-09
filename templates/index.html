@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rozetked titles</title>
+    <base target="_blank">
+</head>
+<body>
+<h1>Rozetked titles</h1>
+<h2>Источник: <a href="{{ rozet_url['url'] }}">{{ rozet_url['url'] }}</a></h2>
+<ol>
+{% for i in rozetked_page_articles %}
+    <li>{{ i['title'] }}</li>
+ {% endfor %}
+</ol>
+</body>
+</html>
