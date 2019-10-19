@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rozetked titles reverse</title>
+    <base target="_blank">
+</head>
+<body>
+<h1>Rozetked titles reverse</h1>
+<h2>Источник: <a href="{{ rozet_url1['url'] }}">{{ rozet_url1['url'] }}</a></h2>
+<ol>
+{% for i in rozetked_page_articles1 %}
+    <li>{{ i['title'] }}<br>{{ i['seconds'] }}</li>
+ {% endfor %}
+</ol>
+<form method="post" action="/update_page">
+    <button type="submit">Refresh me</button>
+</form>
+</body>
+</html>
