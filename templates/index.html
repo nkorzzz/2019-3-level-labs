@@ -10,7 +10,7 @@
 <h2>Источник: <a href="{{ rozet_url['url'] }}">{{ rozet_url['url'] }}</a></h2>
 <ol>
 {% for i in rozetked_page_articles %}
-    <li>{{ i['title'] }}</li>
+    <li>{{ i['title'] }}<br>{{ i['seconds'] }}</li>
  {% endfor %}
 </ol>
 <form method="post" action="/update_page">
